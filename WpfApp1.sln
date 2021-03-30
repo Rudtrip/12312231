@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{1F96F271-AF62-4997-9CF9-72886C3CBD09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2", "WpfApp2\WpfApp2.csproj", "{EEA0DB94-1C07-42E9-812F-35989CE32AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp3", "WpfApp3\WpfApp3.csproj", "{F6857DE2-EA03-45AA-ACEE-CB2CA1167E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F96F271-AF62-4997-9CF9-72886C3CBD09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F96F271-AF62-4997-9CF9-72886C3CBD09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F96F271-AF62-4997-9CF9-72886C3CBD09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F96F271-AF62-4997-9CF9-72886C3CBD09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEA0DB94-1C07-42E9-812F-35989CE32AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEA0DB94-1C07-42E9-812F-35989CE32AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEA0DB94-1C07-42E9-812F-35989CE32AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEA0DB94-1C07-42E9-812F-35989CE32AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6857DE2-EA03-45AA-ACEE-CB2CA1167E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6857DE2-EA03-45AA-ACEE-CB2CA1167E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6857DE2-EA03-45AA-ACEE-CB2CA1167E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6857DE2-EA03-45AA-ACEE-CB2CA1167E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {573D187A-96D1-46CC-ADF9-650A095DA252}
+	EndGlobalSection
+EndGlobal
